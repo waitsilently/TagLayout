@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.taglayout.TagLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="北京" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="上海" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="天津" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="河北" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="黑龙江" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="吉林" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="辽宁" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="内蒙古" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="新疆" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="甘肃" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="宁夏" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="山西" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="陕西" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="山东" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="河南" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="西藏" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="青海" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="四川" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="湖北" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="湖南" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="云南" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="广西" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="广东" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="贵州" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="江西" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="安徽" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="浙江" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="重庆" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="江苏" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="贵州" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="深圳" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="海南" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="香港" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="台湾" />
+
+    <com.example.taglayout.ColoredTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="福建" />
+
+
+
+</com.example.taglayout.TagLayout>
